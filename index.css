@@ -122,3 +122,28 @@ figcaption {
   font-size: 14px;
   color: #555;
 }
+
+.chatbot-section {
+  margin-top: 56px;
+}
+
+.chatbot-section iframe {
+  width: 100%;
+  height: 520px;
+  border: 1px solid #ddd;
+  background: #fff;
+  display: block;
+}
+
+.chatbot-section p {
+  margin-bottom: 12px;
+}
+
+.chatbot-link {
+  margin-top: 8px;
+}
+
+.chatbot-link a {
+  color: #2a5bd7;
+  text-decoration: underline;
+}
