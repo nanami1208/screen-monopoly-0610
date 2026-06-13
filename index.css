@@ -95,11 +95,11 @@ h1 {
 }
 
 .graph-final {
-  height: 660px;
+  height: 620px;
 }
 
 .graph-scoi {
-  height: 660px;
+  height: 620px;
 }
 
 .graph-survey {
@@ -153,4 +153,5 @@ figcaption {
   line-height: 1.4;
   margin: 48px 0 20px;
 }
+
 
