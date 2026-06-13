@@ -154,3 +154,15 @@ figcaption {
   margin: 48px 0 20px;
 }
 
+.summary {
+  margin-top: 32px;
+  padding-left: 18px;
+  border-left: 5px solid #fff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.6;
+}
+
+.summary p {
+  margin: 0 0 28px;
+}
